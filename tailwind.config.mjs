@@ -11,13 +11,14 @@ export default {
     theme: {
         extend: {
             backgroundImage: {
-                'grid-pattern': `linear-gradient(to bottom, theme('colors.neutral.950 / 0%'), theme('colors.neutral.950 / 100%')), url('${noiseDataUri}')`
+                'grid-pattern': `url('${noiseDataUri}')`
             },
             colors: {
                 neutral: colors.neutral
             },
             fontFamily: {
-                sans: ['Inter', ...defaultTheme.fontFamily.sans]
+                sans: ['azeret-mono', ...defaultTheme.fontFamily.sans],
+                serif: ['libre-baskerville', ...defaultTheme.fontFamily.serif],
             }
         }
     },
@@ -25,7 +26,7 @@ export default {
         themes: [
             {
                 lofi: {
-                    ...require('daisyui/src/theming/themes')['lofi'],
+                    ...require('daisyui/src/theming/themes')['black'],
                     primary: '#F67280',
                     'primary-content': '#1f1f1f',
                     secondary: '#C06C84',
@@ -35,5 +36,5 @@ export default {
             }
         ]
     },
-    plugins: [require('daisyui')]
+    plugins: [require("daisyui")]
 };

@@ -13,7 +13,9 @@
     "@astrojs/netlify": "^5.2.0",
     "@astrojs/react": "^3.3.0",
     "@astrojs/tailwind": "^5.1.0",
+    "@fontsource-variable/azeret-mono": "^5.1.0",
     "@fontsource/inter": "^5.0.18",
+    "@fontsource/libre-baskerville": "^5.1.0",
     "@netlify/blobs": "^8.0.1",
     "@netlify/functions": "^2.8.1",
     "@types/react": "^18.2.79",
@@ -28,8 +30,10 @@
     "unique-names-generator": "^4.7.1"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.15",
     "@types/blobshape": "^1.0.3",
     "@types/node": "^20.12.7",
-    "daisyui": "^4.10.2"
+    "daisyui": "^4.10.2",
+    "netlify-cli": "^17.36.0"
   }
 }

@@ -11,6 +11,10 @@
         @apply text-2xl font-bold sm:text-3xl;
     }
 
+    h3 {
+        @apply text-2xl font-bold sm:text-2xl;
+    }
+
     a {
         @apply underline transition hover:opacity-80;
     }
@@ -27,7 +31,8 @@
 
 @layer components {
     .markdown > h1,
-    .markdown > h2 {
+    .markdown > h2,
+    .markdown > h3 {
         @apply mt-12 mb-6;
     }
 
