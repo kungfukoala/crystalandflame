@@ -6,11 +6,6 @@
     body {
         font-family: 'Libre Baskerville', serif;
     }
-    .nav-link a {
-        font-family: 'Azeret Mono Variable', sans-serif;
-        text-transform: uppercase;
-        @apply text-sm;
-    }
     h1 {
         @apply text-4xl font-bold tracking-tight sm:text-5xl;
     }
