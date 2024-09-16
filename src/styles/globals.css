@@ -24,7 +24,7 @@
     }
 
     a {
-        @apply underline transition hover:opacity-80;
+        @apply underline underline-offset-4 transition hover:opacity-80;
     }
 
     pre {
