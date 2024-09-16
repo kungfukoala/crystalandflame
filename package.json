@@ -30,7 +30,7 @@
     "unique-names-generator": "^4.7.1"
   },
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.15",
+    "@tailwindcss/forms": "^0.5.9",
     "@types/blobshape": "^1.0.3",
     "@types/node": "^20.12.7",
     "daisyui": "^4.10.2",
