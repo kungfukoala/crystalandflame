@@ -44,6 +44,10 @@
         @apply my-6;
     }
 
+    .markdown > ul {
+        @apply list-disc pl-5 space-y-2.5;
+    }
+
     .markdown > :first-child {
         @apply mt-0;
     }
