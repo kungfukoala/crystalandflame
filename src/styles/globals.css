@@ -33,26 +33,26 @@
 }
 
 @layer components {
-    .markdown > h1,
-    .markdown > h2,
-    .markdown > h3 {
+    h1,
+    h2,
+    h3 {
         @apply mt-12 mb-6;
     }
 
-    .markdown > p,
-    .markdown > pre {
+    p,
+    pre {
         @apply my-6;
     }
 
-    .markdown > ul {
+    .main > ul {
         @apply list-disc pl-5 space-y-2.5;
     }
 
-    .markdown > :first-child {
+    .main > :first-child {
         @apply mt-0;
     }
 
-    .markdown > :last-child {
+    .main > :last-child {
         @apply mb-0;
     }
 
