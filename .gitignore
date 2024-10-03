@@ -26,3 +26,6 @@ pnpm-debug.log*
 node_modules
 
 .tina/__generated__
+
+public/admin/index.html
+public/admin/
