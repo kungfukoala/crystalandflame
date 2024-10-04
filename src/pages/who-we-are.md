@@ -1,21 +1,21 @@
 ---
-layout: '../layouts/Layout.astro'
+layout: ../layouts/Layout.astro
 title: Who We Are
 ---
 
-Test We are a group of artists and writers creating for artists and writers.
+We are a group of artists and writers creating for artists and writers.
 
 ## Crystal and Flame Team
 
-Maura Pellettieri | Founding Editor (Oakland / Jerusalem)
+Maura Pellettieri | Founding Editor (San Francisco | Jerusalem)
 
-is a writer and editor from New York. Maura received her BA in English Language and Literature from SUNY Buffalo and her MFA in Writing from Washington University in St. Louis, where she received a postgraduate fellowship. Maura has collaborated widely with visual artists, performers, and composers, including Matthew Evan Taylor, Catalina Ouyang, JAŠA, Sarah E. Brook, and others. She has given talks on social practice, collaboration, ritual, and poetics at the Cleveland Institute of Art, the Contemporary Art Museum in St. Louis, Washington University in St. Louis, and other spaces. Her writing can be found in Denver Quarterly, Kenyon Review, Conjunctions, On the Seawall, The Literary Review, Fairy Tale Review, and others. She is a kohenet (traditional hebrew ritualist), and has spent the past few years teaching creative writing, ecopoetics, queer ecology, and embodiment and ancestral repair modalities remotely and throughout the San Francisco Bay Area.
+is a writer and editor from New York. Maura received her MFA in Writing from Washington University in St. Louis, where she received a postgraduate fellowship. She has collaborated widely with visual artists, performers, and composers, including Matthew Evan Taylor, Catalina Ouyang, JAŠA, Sarah E. Brook, and others. She has given talks on social practice, collaboration, and public ritual at the Cleveland Institute of Art, the Contemporary Art Museum in St. Louis, Washington University in St. Louis, and other spaces. Her writing can be found in *Denver Quarterly*, *Kenyon Review*, *Conjunctions*, *On the Seawall*, *The Literary Review*, *Fairy Tale Review*, and others. She has spent the past few years teaching creative writing, queer ecology, and ancestral repair modalities throughout the San Francisco Bay Area.
 
 ***
 
 Jason Lai | Divinator (St. Louis)
 
-is a tarot reader, poetic interpreter of symbols and signs, and healer, living and dreaming in St. Louis.
+is an oracular polyglot fascinated by the cultural history of divinatory symbol sets, and the oblique poetry and insight that emerges from ritualized sortilege and interpretation. His deep exploration of divination praxis began during his professional training in traditional East Asian medicine with the I-Ching, The Book of Changes, and has gone on to study astrology, tarot, geomancy, and several other oracle systems. Jason has lived on and off in St. Louis for 17 years, returning for the third time in 2020. 
 
 ***
 
@@ -27,7 +27,7 @@ is an artist and writer working in mediums of language, image, paint, pigment, a
 
 Young Rader | Writer (Berlin)
 
-lives and writes in Berlin. His work has appeared in the Chicago Review, New England Review, Little Star, Passages North, and elsewhere. His stories have been shortlisted for the Desperate Literature Short Fiction Prize and the Berlin Writing Prize. He received his MFA in Fiction at Washington University in St. Louis.
+lives and writes in Berlin. His work appears in the Chicago Review, Gulf Coast, New England Review, Little Star, Passages North, swamp pink, and elsewhere. His stories have been shortlisted for the Desperate Literature Short Fiction Prize and the Berlin Writing Prize. In 2023, he was awarded the Calvino Prize, sponsored by the Creative Writing Program in the English Department of the University of Louisville. He is at work on a novel. 
 
 ***
 
