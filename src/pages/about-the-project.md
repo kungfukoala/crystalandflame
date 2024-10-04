@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/Layout.astro
-title: 'Crystal and Flame: About the project'
+title: About the project
 ---
 
 ## What is CRYSTAL AND FLAME?
