@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/Layout.astro
-title: 'Support Crystal and Flame: A note on world-building and beginning again'
+title: A note on world-building and beginning again
 ---
 
 Dear Friends,
