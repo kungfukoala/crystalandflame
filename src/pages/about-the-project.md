@@ -21,7 +21,7 @@ While serving artists as a grant writer and editor, Maura noticed patterns in th
 
 At the same time, Maura was providing her cultural work as a creative writer without any labor protections or industry wages standards in independent publishing. The standing assumption in literary publishing remains that writers create as a ‘labor of love’ and should be grateful to be in print at all. While many of us feel grateful to be in print, this attitude permits the exploitation of poets and writers, allows compensation and wage reform to be evaded by literary publishers, and invisibilizes the value of the expert labor and cultural service provided by writers.
 
-Witnessing these issues come to a head during the pandemic–(women writers were among one of the hardest hit groups economically during the pandemic)--Maura initiated *Crystal and Flame* as a vehicle to create multi-faceted answers to these problems. In partnership with her core writing, editorial, and design team, she developed the project’s concept. Together, with joy, we are embarking on a playful, solutions-minded journey.
+Witnessing these issues come to a head during the pandemic–(women writers were among one of the hardest hit groups economically during the pandemic)--Maura initiated *Crystal and Flame* as a vehicle to create multi-faceted answers to these problems. In partnership with her core writing, editorial, and design team, she developed the project’s concept. Together, we are embarking on a playful, solutions-minded journey.
 
 ## How can I get involved?
 
@@ -31,6 +31,6 @@ Donate via [Zelle](https://www.zellepay.com/go/zelle): [(510) 641-6518](https://
 
 If you are a writer or editor who thinks you would be a good fit and you’re interested in contributing, please share about yourself and your interest: [maura@crystalandflame.com](mailto:maura@crystalandflame.com).
 
-Join our mailing list at the bottom of the page. 
+Join our mailing list at the bottom of the page.
 
 We look forward to hearing from you. Thank you in advance.
