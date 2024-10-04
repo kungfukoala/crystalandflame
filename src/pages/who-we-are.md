@@ -9,7 +9,7 @@ We are a group of artists and writers creating for artists and writers.
 
 Maura Pellettieri | Founding Editor (San Francisco | Jerusalem)
 
-is a writer, editor, and artist. Maura received her MFA in Writing from Washington University in St. Louis, where she received a postgraduate fellowship. She has collaborated with visual artists, performers, and composers, including Matthew Evan Taylor, Catalina Ouyang, Sarah E. Brook. She has given talks on social practice, collaboration, and public ritual at the Cleveland Institute of Art, the Contemporary Art Museum in St. Louis, Washington University in St. Louis, and other spaces. Her writing can be found in *Denver Quarterly*, *Kenyon Review*, *Conjunctions*, *On the Seawall*, *The Literary Review*, *Fairy Tale Review*, and elsewhere. She has spent the past few years teaching creative writing, queer ecology, and ancestral repair modalities throughout the San Francisco Bay Area.
+is a writer, editor, and artist. Maura received her MFA in Writing from Washington University in St. Louis. She has collaborated with visual artists, performers, and composers, including Matthew Evan Taylor, Catalina Ouyang, Sarah E. Brook. She has given talks on social practice, collaboration, and public ritual at the Cleveland Institute of Art, the Contemporary Art Museum in St. Louis, Washington University in St. Louis, and other spaces. Her writing can be found in *Denver Quarterly*, *Kenyon Review*, *Conjunctions*, *On the Seawall*, *The Literary Review*, *Fairy Tale Review*, and elsewhere. She has spent the past few years teaching creative writing and ancestral repair modalities throughout the San Francisco Bay Area. 
 
 ***
 
