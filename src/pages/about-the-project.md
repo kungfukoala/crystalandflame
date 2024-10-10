@@ -5,7 +5,7 @@ title: About the project
 
 ## What is *CRYSTAL AND FLAME*?
 
-*CRYSTAL AND FLAME* is an experimental art writing journal, dedicated to bridging gaps in the cultural community. The journal features interviews with artists across mediums and cultures; speculative art writing that shakes up the way we understand what art writing can do and be; ekphrasis; divination projects; poetry; and opportunities for our audience to engage with our writers and editors directly. We are creating opportunities for circular engagement between staff and readership for the purpose of opening the site of discourse and recasting writing and thinking as shared, collaborative, and community acts.
+*CRYSTAL AND FLAME* is an experimental art writing journal dedicated to bridging gaps in the cultural community. The journal features interviews with artists across mediums and cultures; speculative art writing that shakes up the way we understand what art writing can do and be; ekphrasis; divination projects; poetry; and opportunities for our audience to engage with our writers and editors directly. We are creating opportunities for circular engagement between staff and readership for the purpose of opening the site of discourse and recasting writing and thinking as shared, collaborative, and community acts.
 
 ## What is our mission?
 
