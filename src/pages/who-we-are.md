@@ -9,7 +9,12 @@ We are a group of artists and writers creating for artists and writers.
 
 Maura Pellettieri | Founding Editor (San Francisco | Jerusalem)
 
-is a writer, editor, and artist. Maura received her MFA in Writing from Washington University in St. Louis. She has collaborated with visual artists, performers, and composers, including Matthew Evan Taylor, Catalina Ouyang, Sarah E. Brook. She has given talks on social practice, collaboration, and public ritual at the Cleveland Institute of Art, the Contemporary Art Museum in St. Louis, Washington University in St. Louis, and other spaces. Her writing can be found in *Denver Quarterly*, *Kenyon Review*, *Conjunctions*, *On the Seawall*, *The Literary Review*, *Fairy Tale Review*, and elsewhere. She has spent the past few years teaching creative writing and ancestral repair modalities throughout the San Francisco Bay Area. 
+is a writer, editor, and artist. Maura received her MFA in Writing from Washington University in St. Louis. She has collaborated with visual artists, performers, and composers, including Matthew Evan Taylor, Catalina Ouyang, Sarah E. Brook. She has given talks on social practice, collaboration, and public ritual at the Cleveland Institute of Art, the Contemporary Art Museum in St. Louis, Washington University in St. Louis, and other spaces. Her writing can be found in *Denver Quarterly*, *Kenyon Review*, *Conjunctions*, *On the Seawall*, *The Literary Review*, *Fairy Tale Review*, and elsewhere. She has spent the past few years teaching creative writing and ancestral repair modalities throughout the San Francisco Bay Area.
+
+***
+
+Emma K. Shibley | Editor (Atlanta)
+is an editor, writer, and poet putting down roots in Atlanta, Georgia, where she is a co-founding editor for the collaborative zine Something in the Water. Her writing has appeared on Poets.org and in Rogue Agent, Encyclopædia Britannica, and a few literary magazines in southwest Ohio, where graduated from Miami University's creative writing program and grew mostly up. She has been a fellow or participant in Writing by Writers' Tomales Bay workshop, the Los Angeles Review of Books publishing workshop, and the Burnaway Art Writing Incubator, as well as workshops with Douglas Kearney, Lia Purpura, Kaveh Akbar, and others. Emma now works as a technical writer and finds meaning as a musician, but she has alternately been (and hopes to be again) a facilitator, organizer, theatre-maker, and paperboy.
 
 ***
 
