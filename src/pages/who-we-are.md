@@ -14,6 +14,7 @@ is a writer, editor, and artist. Maura received her MFA in Writing from Washingt
 ***
 
 Emma K. Shibley | Editor (Atlanta)
+
 is an editor, writer, and poet putting down roots in Atlanta, Georgia, where she is a co-founding editor for the collaborative zine Something in the Water. Her writing has appeared on Poets.org and in Rogue Agent, Encyclopædia Britannica, and a few literary magazines in southwest Ohio, where graduated from Miami University's creative writing program and grew mostly up. She has been a fellow or participant in Writing by Writers' Tomales Bay workshop, the Los Angeles Review of Books publishing workshop, and the Burnaway Art Writing Incubator, as well as workshops with Douglas Kearney, Lia Purpura, Kaveh Akbar, and others. Emma now works as a technical writer and finds meaning as a musician, but she has alternately been (and hopes to be again) a facilitator, organizer, theatre-maker, and paperboy.
 
 ***
