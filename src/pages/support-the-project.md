@@ -3,9 +3,11 @@ layout: ../layouts/Layout.astro
 title: A note on world-building and beginning again
 ---
 
+## *Support the Project: A note on world-building and beginning again*
+
 Dear Friends,
 
-I find myself at the edge of two wildernesses–that of the natural world, which is rich, thriving and alive, which I know and love as home, and that of the speculative future we are already in, of technology, AI and the question marks it has arrived in public discourse about the value of writers. One of these wildernesses commands my respect and is my greatest ally and friend. The other is foreign to me, and incites my apprehension–an unknown stranger that I am wary of. In San Francisco, the details of this tension are materially present and in our faces. Perhaps, even if the dystopia hasn’t hit your outward reality yet, you can relate. 
+I find myself at the edge of two wildernesses–that of the natural world, which is rich, thriving and alive, which I know and love as home, and that of the speculative future we are already in, of technology, AI and the question marks it has arrived in public discourse about the value of writers. One of these wildernesses commands my respect and is my greatest ally and friend. The other is foreign to me, and incites my apprehension–an unknown stranger that I am wary of. In San Francisco, the details of this tension are materially present and in our faces. Perhaps, even if the dystopia hasn’t hit your outward reality yet, you can relate.
 
 We often talk democratizing access and increasing representation in the arts, but in the years since the pandemic, have we really invented better stakes for all, or are we only tokenizing with a cleaner performance? What have our collective intentions meant in practice and how do we get to the art world paradigm we want to inhabit? How will literary writers survive? Or more to the point, how are we surviving? Perhaps if the wider collective could feel what it takes to live on the frontlines of this moment as a literary creative, AI would already be put to bed.
 
@@ -13,7 +15,7 @@ We live in a world that consistently devalues the labor of artists–and statist
 
 *Crystal and Flame* is an art writing journal and small press project that reflects my relationship to these questions, and forms my attempt to play in the field of answers as an art writer, editor, and literary entrepreneur. I have ideas for strategies we might employ to shift financial models and paradigms in favor of artists. I cannot know until I initiate these ideas what they will lead to. I know that this project has the capacity to function as a vehicle for experimentation for these attempts–at maximum, yielding new systems and paradigms, and at minimum, providing a platform for the conversation to grow. I know that our collective cultural health is connected to our willingness to prioritize valuing the health of artists and writers--who are the gills and medicine people of our society--which includes and necessitates an expression of compensation that does not yet exist in practice.
 
-We have an incredible crew of writers, editors, and designers who are actively working on getting beautiful, hope-instigating and world-building content to you. We are currently creating at cost. There is nothing new about this–it is how things have been done for a long time. But just because we’ve done things a certain way for a long time, doesn’t mean we should continue. 
+We have an incredible crew of writers, editors, and designers who are actively working on getting beautiful, hope-instigating and world-building content to you. We are currently creating at cost. There is nothing new about this–it is how things have been done for a long time. But just because we’ve done things a certain way for a long time, doesn’t mean we should continue.
 
 I recently watched a feel-good flick called *Begin Again* in which Kiera Knightly plays a musician who decides that the music industry does not have her interests at heart and invents her own color wheel of success. She does it by a sequence of wild collaborative acts with other individuals who understand that they are in it together. This is the sort of engagement we need to make lasting change.
 
@@ -57,7 +59,7 @@ We’d love to stay in connection, let you know when the journal launches, share
 
 Please note that Crystal and Flame is a punk endeavor, not a 501c3. This may change in the future. For now, your donation is not tax deductible. There will be other rewards for your presence and involvement, but they will be punk rewards: Authentic, bright, hardcore, gravitational, and possibly hot pink. More details about all of that are coming.
 
-Thank you for reading, donating, forwarding, and most important of all, for being here on this earth at this fulcrum moment. 
+Thank you for reading, donating, forwarding, and most important of all, for being here on this earth at this fulcrum moment.
 
 With gratitude–
 
