@@ -17,11 +17,11 @@ We live in a world that consistently devalues the labor of artists and writers�
 
 We have an incredible crew of writers, editors, and designers who are actively working on getting beautiful, hope-instigating and world-building content to you. We are currently creating at cost. There is nothing new about this–it is how things have been done for a long time. But just because we’ve done things a certain way for a long time, doesn’t mean we should continue.
 
-I recently watched a feel-good flick called *Begin Again* in which Kiera Knightly plays a musician who decides that the music industry does not have her interests at heart and invents her own color wheel of success. She does it by a sequence of wild collaborative acts with other individuals who understand that they are in it together. This is the sort of engagement we need to make lasting change.
+I recently watched a feel-good flick called *Begin Again* in which Kiera Knightly plays a musician who decides that the music industry does not have her interests at heart and invents her own color wheel of success. She does it by a sequence of wild collaborative acts with other individuals who understand that they are in it together. This is the sort of world-building and collaboration we need to co-create to make lasting change.
 
-If you believe in a future that is written by the wild and a paradigm that is artist-led, help us bridge a gap of $15,000, which will support our team and cover nonnegotiable start-up costs.
+If you believe in a paradigm that is artist-led and a future that is wild, help us bridge a gap of $15,000, which will support our team and cover nonnegotiable start-up costs.
 
-While this will not be the last fundraising ask I make on behalf of this project, it may be the most important. While we invent creative solutions to the above problems, we are still operating within the old systems. Our core team is taking a hit.
+While this will not be the last fundraising ask I make on behalf of this project, it may be the most important. While we invent creative solutions to the above problems, we are still operating within the old systems, which means our core team is actively taking a financial hit to bring forth the future art world we hope to inhabit and re-make with you.
 
 We are within sight of our launch; the next moments are crucial. Will you help us bridge the gap?
 
@@ -32,7 +32,7 @@ Donate via [Zelle](https://www.zellepay.com/go/zelle): [(510) 641-6518](https://
 ### What you will be making possible and helping bring to the world:
 
 * The launch of an open-access digital journal of art writing, including brave experiments and new ways of approaching what art writing can do and be
-* A print edition of the journal with new and ‘best of’ content from the year (published by a woman-owned printer in San Francisco)
+* A print edition of the journal with new and "best of" content from the year (published by a woman-owned printer in San Francisco)
 
 ### What the journal will offer:
 
