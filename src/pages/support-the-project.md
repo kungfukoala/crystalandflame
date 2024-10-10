@@ -13,11 +13,11 @@ We often talk democratizing access and increasing representation in the arts, bu
 
 We live in a world that consistently devalues the labor of artists and writers–monetarily and in other ways. How do we create a world that respects its creatives? How do we initiate stability and mutual power in our industries?
 
-*Crystal and Flame* is an art writing journal and small press project that reflects my relationship to these questions, and forms my attempt to play in the field of answers as an art writer, editor, and literary entrepreneur. I have ideas for strategies we might employ to shift financial models and paradigms in favor of artists. I cannot know until I initiate these ideas what they will lead to. I know that this project has the capacity to function as a vehicle for experimentation for these attempts–at minimum, providing a platform for the conversation to grow, and at maximum, yielding new systems and paradigms. I know that our collective cultural health is connected to our willingness to prioritize valuing the health of artists and writers--who are the gills and medicine people of our society--which includes and necessitates an expression of compensation that does not yet exist in practice.
+*Crystal and Flame* is an art writing journal and small press project that reflects my relationship to these questions, and forms my attempt to play in the field of answers as an art writer, editor, and literary entrepreneur. I have ideas for strategies we might employ to shift financial models and paradigms in favor of artists. I cannot know until I initiate these ideas what they will lead to. I know that this project has the capacity to function as a vehicle for experimentation for these attempts–at minimum, providing a platform for the conversation to grow, and at maximum, yielding new systems and paradigms. I know that our collective cultural health is connected to our willingness to prioritize valuing the health of artists and writers--who are the gills and medicine people of our society--which includes and necessitates an expression of compensation that does not yet exist in practice. 
 
 We have an incredible crew of writers, editors, and designers who are actively working on getting beautiful, hope-instigating and world-building content to you. We are currently creating at cost. There is nothing new about this–it is how things have been done for a long time. But just because we’ve done things a certain way for a long time, doesn’t mean we should continue.
 
-I recently watched a feel-good flick called *Begin Again* in which Kiera Knightly plays a musician who decides that the music industry does not have her interests at heart and invents her own color wheel of success. She does it by a sequence of wild collaborative acts with other individuals who understand that they are in it together. This is the sort of world-building and collaboration we need to co-create to make lasting change.
+I recently watched a feel-good flick called *Begin Again* in which Kiera Knightly plays a musician who decides that the music industry does not have her interests at heart and invents her own color wheel of success. She does it by a sequence of wild collaborative acts with other individuals who understand that they are in it together. This is the sort of world-building and collaboration we need to co-create to make lasting change. 
 
 If you believe in a paradigm that is artist-led and a future that is wild, help us bridge a gap of $15,000, which will support our team and cover nonnegotiable start-up costs.
 
@@ -36,9 +36,12 @@ Donate via [Zelle](https://www.zellepay.com/go/zelle): [(510) 641-6518](https://
 
 ### What the journal will offer:
 
-* Interviews with artists across mediums and cultures; speculative art writing; ekphrasis; a divination project; poetry; invented forms
-* Opportunities for direct engagement among writers and readers for the purpose of opening the site of arts discourse and recasting writing and thinking as shared, collaborative, and community-engaged acts
+* Interviews with artists across mediums and cultures
+* Speculative art writing and ekphrasis
+* An art-focused divination project
+* Poetry, hybrid work, and invented forms
 * *The Cursebreaker’s Folio* – a special folio dedicated to writing about the work of artists who are creating about israelpalestine, and about questions of identity and peacemaking in the holy land in ways that interrupt stagnancy and inflammatory thought-patterns in the collective that feed cycles of violence.
+* Opportunities for direct engagement among writers and readers for the purpose of opening the site of arts discourse and recasting writing and thinking as shared, collaborative, and community-engaged acts
 * And much more!
 
 ### Where your dollars will go:
