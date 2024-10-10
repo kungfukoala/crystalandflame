@@ -3,7 +3,7 @@ layout: ../layouts/Layout.astro
 title: A note on world-building and beginning again
 ---
 
-## *Support the Project: A note on world-building and beginning again*
+## *A note on world-building and beginning again*
 
 Dear Friends,
 
