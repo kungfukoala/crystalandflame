@@ -3,7 +3,7 @@ import { Collection } from "tinacms";
 const Post: Collection = {
   name: "post",
   label: "Posts",
-  path: "content/posts",
+  path: "src/content/posts",
   fields: [
     {
       type: "string",

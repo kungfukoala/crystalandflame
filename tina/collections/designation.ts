@@ -3,7 +3,7 @@ import { Collection } from "tinacms";
 const Designation: Collection = {
   name: "designation",
   label: "Designations",
-  path: "content/designations",
+  path: "src/content/designations",
   fields: [
     {
       type: "string",

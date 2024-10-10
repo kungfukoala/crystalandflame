@@ -3,7 +3,7 @@ import { Collection } from "tinacms";
 const Issue: Collection = {
   name: "issue",
   label: "Issues",
-  path: "content/issues",
+  path: "src/content/issues",
   fields: [
     {
       type: "string",

@@ -3,7 +3,7 @@ import { Collection } from "tinacms";
 const Author: Collection = {
   name: "author",
   label: "Authors",
-  path: "content/authors",
+  path: "src/content/authors",
   fields: [
     {
       type: "string",
