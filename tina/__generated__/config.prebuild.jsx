@@ -6,7 +6,7 @@ import "tinacms";
 var Post = {
   name: "post",
   label: "Posts",
-  path: "content/posts",
+  path: "src/content/posts",
   fields: [
     {
       type: "string",
@@ -90,7 +90,7 @@ import "tinacms";
 var Author = {
   name: "author",
   label: "Authors",
-  path: "content/authors",
+  path: "src/content/authors",
   fields: [
     {
       type: "string",
@@ -113,7 +113,7 @@ import "tinacms";
 var Issue = {
   name: "issue",
   label: "Issues",
-  path: "content/issues",
+  path: "src/content/issues",
   fields: [
     {
       type: "string",
@@ -130,7 +130,7 @@ import "tinacms";
 var Designation = {
   name: "designation",
   label: "Designations",
-  path: "content/designations",
+  path: "src/content/designations",
   fields: [
     {
       type: "string",
