@@ -13,11 +13,11 @@ We often talk democratizing access and increasing representation in the arts, bu
 
 We live in a world that consistently devalues the labor of artists and writers–monetarily and in other ways. How do we create a world that respects its creatives? How do we initiate stability and mutual power in our industries?
 
-*Crystal and Flame* is an art writing journal and small press project that reflects my relationship to these questions, and forms my attempt to play in the field of answers as an art writer, editor, and literary entrepreneur. I have ideas for strategies we might employ to shift financial models and paradigms in favor of artists. I cannot know until I initiate these ideas what they will lead to. I know that this project has the capacity to function as a vehicle for experimentation for these attempts–at minimum, providing a platform for the conversation to grow, and at maximum, yielding new systems and paradigms. I know that our collective cultural health is connected to our willingness to prioritize valuing the health of artists and writers--who are the gills and medicine people of our society--which includes and necessitates an expression of compensation that does not yet exist in practice. 
+*Crystal and Flame* is an art writing journal and small press project that reflects my relationship to these questions, and forms my attempt to play in the field of answers as an art writer, editor, and literary entrepreneur. I have ideas for strategies we might employ to shift financial models and paradigms in favor of artists. I cannot know until I initiate these ideas what they will lead to. I know that this project has the capacity to function as a vehicle for experimentation for these attempts–at minimum, providing a platform for the conversation to grow, and at maximum, yielding new systems and paradigms. I know that our collective cultural health is connected to our willingness to prioritize valuing the health of artists and writers--who are the gills and medicine people of our society--which includes and necessitates an expression of compensation that does not yet exist in practice.
 
 We have an incredible crew of writers, editors, and designers who are actively working on getting beautiful, hope-instigating and world-building content to you. We are currently creating at cost. There is nothing new about this–it is how things have been done for a long time. But just because we’ve done things a certain way for a long time, doesn’t mean we should continue.
 
-I recently watched a feel-good flick called *Begin Again* in which Kiera Knightly plays a musician who decides that the music industry does not have her interests at heart and invents her own color wheel of success. She does it by a sequence of wild collaborative acts with other individuals who understand that they are in it together. This is the sort of world-building and collaboration we need to co-create to make lasting change. 
+I recently watched a feel-good flick called *Begin Again* in which Kiera Knightly plays a musician who decides that the music industry does not have her interests at heart and invents her own color wheel of success. She does it by a sequence of wild collaborative acts with other individuals who understand that they are in it together. This is the sort of world-building and collaboration we need to co-create to make lasting change.
 
 If you believe in a paradigm that is artist-led and a future that is wild, help us bridge a gap of $15,000, which will support our team and cover nonnegotiable start-up costs.
 
@@ -27,7 +27,7 @@ We are within sight of our launch; the next moments are crucial. Will you help u
 
 Can you help us with a gift of $50, $100, $250, or more? There are no small gifts. But consider the worth of a new world, and to the degree your pockets are warm and lined, I invite you to give in congruence with that value.
 
-Donate via [Zelle](https://www.zellepay.com/go/zelle): [(510) 641-6518](https://www.zellepay.com/go/zelle)
+Donate via [Zelle](https://www.zellepay.com/go/zelle): [(510) 641-6518 ](https://www.zellepay.com/go/zelle)or crystal.flame.mag\@gmail.com
 
 ### What you will be making possible and helping bring to the world:
 
@@ -50,7 +50,7 @@ Donate via [Zelle](https://www.zellepay.com/go/zelle): [(510) 641-6518](https://
 * Honorariums to participating and contributing artists
 * Nonnegotiable start up costs, such as web fees and image copy fees
 
-Donate via [Zelle](https://www.zellepay.com/go/zelle): [(510) 641-6518](https://www.zellepay.com/go/zelle)
+Donate via [Zelle](https://www.zellepay.com/go/zelle): [(510) 641-6518 ](https://www.zellepay.com/go/zelle)or crystal.flame.mag\@gmail.com
 
 ### Thank you for your support!
 
