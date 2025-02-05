@@ -27,20 +27,19 @@ We are within sight of our launch; the next moments are crucial. Will you help u
 
 Can you help us with a gift of $50, $100, $250, or more? There are no small gifts. But consider the worth of a new world, and to the degree your pockets are warm and lined, I invite you to give in congruence with that value.
 
-Donate via [Zelle](https://www.zellepay.com/go/zelle): [(510) 641-6518 ](https://www.zellepay.com/go/zelle)or crystal.flame.mag\@gmail.com
+Donate via [Zelle](https://www.zellepay.com/go/zelle): [(510) 641-6518 ](https://www.zellepay.com/go/zelle)or [crystal.flame.mag@gmail.com](mailto:crystal.flame.mag@gmail.com)
 
 ### What you will be making possible and helping bring to the world:
 
 * The launch of an open-access digital journal of art writing, including brave experiments and new ways of approaching what art writing can do and be
 * A print edition of the journal with new and "best of" content from the year (published by a woman-owned printer in San Francisco)
 
-### What the journal will offer:
+### What the journal offers:
 
 * Interviews with artists across mediums and cultures
 * Speculative art writing and ekphrasis
 * An art-focused divination project
 * Poetry, hybrid work, and invented forms
-* *The Cursebreaker’s Folio* – a special folio dedicated to writing about the work of artists who are creating about israelpalestine, and about questions of identity and peacemaking in the holy land in ways that interrupt stagnancy and inflammatory thought-patterns in the collective that feed cycles of violence.
 * Opportunities for direct engagement among writers and readers for the purpose of opening the site of arts discourse and recasting writing and thinking as shared, collaborative, and community-engaged acts
 * And much more!
 
@@ -50,7 +49,7 @@ Donate via [Zelle](https://www.zellepay.com/go/zelle): [(510) 641-6518 ](https:/
 * Honorariums to participating and contributing artists
 * Nonnegotiable start up costs, such as web fees and image copy fees
 
-Donate via [Zelle](https://www.zellepay.com/go/zelle): [(510) 641-6518 ](https://www.zellepay.com/go/zelle)or crystal.flame.mag\@gmail.com
+Donate via [Zelle](https://www.zellepay.com/go/zelle): [(510) 641-6518 ](https://www.zellepay.com/go/zelle)or [crystal.flame.mag@gmail.com](mailto:crystal.flame.mag@gmail.com)
 
 ### Thank you for your support!
 
